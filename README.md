@@ -9,19 +9,19 @@ but I focused on passing all tests.
 
 Database used H2.
 
-##todo-domain
+## todo-domain
 Domain module in which ToDo pojo resides
 
-##todo-api
+## todo-api
 API layer consisting of controllers and dtos
 
-##todo-service
+## todo-service
 Service layer for ToDo backend application
 
-##todo-persistency
+## todo-persistency
 Relational persistence layer providing CRUD functionality for ToDos
 
-##todo-application
+## todo-application
 Application configuration module in which SpringBoot main application resides. 
 
 # How to run the application
